@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-  - "6"
+- '6'
 deploy:
   provider: npm
-  email: "damien.arrachequesne@gmail.com"
+  email: damien.arrachequesne@gmail.com
   api_key:
-    secure: "${NPM_TOKEN_SECURE}"
+    secure: $NPM_TOKEN_SECURE
   on:
     tags: true
