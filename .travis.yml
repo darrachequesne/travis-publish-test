@@ -4,6 +4,7 @@ node_js:
 deploy:
   provider: npm
   email: "damien.arrachequesne@gmail.com"
-  api_key: "${NPM_TOKEN}"
+  api_key:
+    secure: "${NPM_TOKEN_SECURE}"
   on:
     tags: true
