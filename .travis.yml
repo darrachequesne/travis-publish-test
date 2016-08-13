@@ -5,6 +5,6 @@ deploy:
   provider: npm
   email: damien.arrachequesne@gmail.com
   api_key:
-    secure: $NPM_TOKEN_SECURE
+    secure: BvJ5LVrBjpo4MDDNxcaPxQxnQjNQY3W/4kEJXlmQK36fCymlIOnl/uL6l7rp5Wpz6qz58NTMe/H4PP7+OdI28YWcf2/OszGH1ADnwigzve0qKw3QgqL1QJxHMq5ja2zJODX8bGv53y+GBMlJyWWUYVlP6yGFVVskby+igORYSg68gGqHgHKm6eFPA2kAzVQZ5dcmg9XXSSsDKISLCnMDNGCN1CvNJ5llpu+ojJ3c/KeMUzUa1cHFMz8P2NuxCcZ5dzksgdt6t2np1pqiqDTY/TESD6ZLOLSoF5MEy+CU1sNiVp2ZcBT3aGF+8CROLeu3crWWSeQ3fi/7x5Qtlrl4Zc0GIQLdWl+LsU9BWevwqXlpdV/sr8KTTErPtQFPWF0wVZFcHaW3vlN5f+Bh8+LbMkaYuOwi9DPC1FrcImBi2v2oyXLbcuqzJK6uh8nk0m9OM9IwUvFLPlr0fbWGJ19ZurjkIxd4/UzS2KoHMuAu1JrLxlpUdRrvyYrhjxCCaxV6kExuFk6eOA3cEFViR4UzOz5rvs42XRrYXVke0qOwMjKuFImq78SdL67MRvGaphKYos+UtS68d5Ah48jFT5RenYRUd3vb4N9ptaDZcx2ZN/sVscTr9ybWgHrVaCG3qlTnDB9q7Kgfe6nllH3Ld9ec89yYVMF6OKq1bfbzQ+8nAYc=
   on:
     tags: true
