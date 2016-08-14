@@ -1,6 +1,6 @@
 {
   "name": "travis-publish-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test publishing to npm through Travis",
   "main": "index.js",
   "scripts": {
